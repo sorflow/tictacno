@@ -1,5 +1,6 @@
 # Tic Tac Toe Game
 
+THIS IS THE NEWEST VERSION OF: https://github.com/sorflow/tic-tac-toe
 This project is a Python implementation of the classic Tic Tac Toe game. Players can compete against a computer opponent, which uses basic AI strategies to either block the player or attempt to win. The game supports an interactive console-based experience.
 
 ## Features
